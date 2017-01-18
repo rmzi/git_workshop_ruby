@@ -5,7 +5,7 @@ class DoMath
 	end
 
 	def -(input_one, input_two)
-		return input_two.to_i - input_one.to_i
+		return input_one.to_i - input_two.to_i
 	end
 
 	def x(input_one, input_two)
